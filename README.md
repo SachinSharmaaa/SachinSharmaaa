@@ -47,7 +47,7 @@ div align="center">
 
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞
 
-<p align="left">
+<p align="centre">
   <a href="https://www.linkedin.com/in/sachin-sharma-731349325/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
