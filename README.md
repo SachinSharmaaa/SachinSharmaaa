@@ -15,7 +15,7 @@ div align="center">
 
 
 ## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐬𝐤𝐢𝐥𝐥
-<p align="left">
+<p align="Center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
